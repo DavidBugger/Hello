@@ -1,2 +1,2 @@
-# Hello
-This is my first repository
+# Hello world
+Hi my name is Akanang David, a student in seek of knowledge
